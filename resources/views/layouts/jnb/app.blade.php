@@ -208,9 +208,7 @@
     </div>
     <!-- modal -->
 
-    <div id="footer">
-        2020 &copy; Sistem Monitoring Stok v1.0. Powered by <a href="#">Vinaya Fit Club</a>
-    </div>
+ 
 
     <!-- Scripts -->
     <script type="text/javascript" src="{{ asset('jnb/js/jquery.js') }}"></script>
