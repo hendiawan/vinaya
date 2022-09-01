@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>resources/views/formPenjualan.blade.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>307</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/app/Http/Controllers/LaporanController.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/routes/web.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/app/Http/Controllers/PelangganController.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/resources/views/ReportCoachDetail.blade.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/resources/views/formPenjualan.blade.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/.env</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/config/database.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/resources/views/laporan.blade.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/app/Http/Controllers/PenjualanController.php</file>
+            <file>file:/D:/SERVER-WEB/htdocs/laravel7/resources/views/ReportSummaryCoach.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
